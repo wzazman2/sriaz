@@ -1,0 +1,3580 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.37.3">
+
+<Institution_Name>Sekolah Rendah Islam Al-Azhar Perlis (SRIAZ)</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Isnin</Name>
+</Day>
+<Day>
+	<Name>Selasa</Name>
+</Day>
+<Day>
+	<Name>Rabu</Name>
+</Day>
+<Day>
+	<Name>Khamis</Name>
+</Day>
+<Day>
+	<Name>Jumaat</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>15</Number_of_Hours>
+<Hour>
+	<Name>7:30-8:00</Name>
+</Hour>
+<Hour>
+	<Name>8:00-8:30</Name>
+</Hour>
+<Hour>
+	<Name>8:30-9:00</Name>
+</Hour>
+<Hour>
+	<Name>9:00-9:30</Name>
+</Hour>
+<Hour>
+	<Name>9:30-10:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00-10:30</Name>
+</Hour>
+<Hour>
+	<Name>10:30-11:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00-11:30</Name>
+</Hour>
+<Hour>
+	<Name>11:30-12:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00-12:30</Name>
+</Hour>
+<Hour>
+	<Name>12:30-1:00</Name>
+</Hour>
+<Hour>
+	<Name>1:00-2:15</Name>
+</Hour>
+<Hour>
+	<Name>2:15-2:45</Name>
+</Hour>
+<Hour>
+	<Name>2:45-3:15</Name>
+</Hour>
+<Hour>
+	<Name>3:15-3:30</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>Akhlak</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Akidah</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Al-Quran</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bahasa Arab</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bahasa Inggeris</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Bahasa Melayu</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Feqah</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Khidmat Bakti</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matematik</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Mentor Mentee</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Pendidikan Jasmani</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Pendidikan Kesihatan</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Pendidikan Seni &amp; Visual</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Pendidikan Seni Muzik / Bahasa Inggeris</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Pengucapan Awam</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Perhimpunan</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Rekabentuk &amp; Teknologi / Teknologi Maklumat &amp; Komunikasi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sains</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sejarah</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sirah</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tajwid</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tulisan Jawi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tunas Kadet Remaja Sekolah</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>ADI</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ADILA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AFIFAH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AMILIA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>ATIKAH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>AZLIA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>FARAH</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>IMAN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>IRA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>SAMIRA</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Tahun 1</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>1 Abu Bakar</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Tahun 2</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>2 Umar</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Tahun 3</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>3 Othman</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+<Year>
+	<Name>Tahun 4</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<Group>
+		<Name>Tahun 4 Ali</Name>
+		<Number_of_Students>0</Number_of_Students>
+		<Comments></Comments>
+	</Group>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Subject>Perhimpunan</Subject>
+	<Students>Tahun 1</Students>
+	<Students>Tahun 2</Students>
+	<Students>Tahun 3</Students>
+	<Students>Tahun 4</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>15</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Tulisan Jawi</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>18</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Tulisan Jawi</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>18</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Akidah</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Feqah</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Akhlak</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>30</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Teacher>ADILA</Teacher>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Mentor Mentee</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>32</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Teacher>FARAH</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>33</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Teacher>FARAH</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Teacher>FARAH</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>35</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Teacher>FARAH</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>36</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Pendidikan Seni &amp; Visual</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>37</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Sirah</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>38</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Tulisan Jawi</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>42</Id>
+	<Activity_Group_Id>42</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Tulisan Jawi</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>43</Id>
+	<Activity_Group_Id>42</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>44</Id>
+	<Activity_Group_Id>44</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>45</Id>
+	<Activity_Group_Id>44</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>46</Id>
+	<Activity_Group_Id>44</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Feqah</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>53</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Akhlak</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>54</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Sirah</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>55</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Teacher>AZLIA</Teacher>
+	<Teacher>IMAN</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>58</Id>
+	<Activity_Group_Id>58</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Teacher>AZLIA</Teacher>
+	<Teacher>IMAN</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>59</Id>
+	<Activity_Group_Id>58</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Teacher>AZLIA</Teacher>
+	<Teacher>IMAN</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>60</Id>
+	<Activity_Group_Id>58</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Teacher>AZLIA</Teacher>
+	<Teacher>IMAN</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>61</Id>
+	<Activity_Group_Id>58</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Sains</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>64</Id>
+	<Activity_Group_Id>64</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Sains</Subject>
+	<Students>2 Umar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>65</Id>
+	<Activity_Group_Id>64</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Akidah</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>66</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Teacher>ADILA</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>70</Id>
+	<Activity_Group_Id>70</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Teacher>ADILA</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>71</Id>
+	<Activity_Group_Id>70</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Teacher>ADILA</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>72</Id>
+	<Activity_Group_Id>70</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Teacher>ADILA</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>73</Id>
+	<Activity_Group_Id>70</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Tulisan Jawi</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>83</Id>
+	<Activity_Group_Id>83</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Tulisan Jawi</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>84</Id>
+	<Activity_Group_Id>83</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Feqah</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>85</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Akhlak</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>86</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Akidah</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>87</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Sirah</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>88</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Mentor Mentee</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>95</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Mentor Mentee</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>96</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>97</Id>
+	<Activity_Group_Id>97</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>98</Id>
+	<Activity_Group_Id>97</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>99</Id>
+	<Activity_Group_Id>97</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Sains</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>102</Id>
+	<Activity_Group_Id>102</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Sains</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>103</Id>
+	<Activity_Group_Id>102</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Subject>Khidmat Bakti</Subject>
+	<Students>Tahun 1</Students>
+	<Students>Tahun 2</Students>
+	<Students>Tahun 3</Students>
+	<Students>Tahun 4</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>104</Id>
+	<Activity_Group_Id>104</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Subject>Khidmat Bakti</Subject>
+	<Students>Tahun 1</Students>
+	<Students>Tahun 2</Students>
+	<Students>Tahun 3</Students>
+	<Students>Tahun 4</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>105</Id>
+	<Activity_Group_Id>104</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Subject>Khidmat Bakti</Subject>
+	<Students>Tahun 1</Students>
+	<Students>Tahun 2</Students>
+	<Students>Tahun 3</Students>
+	<Students>Tahun 4</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>106</Id>
+	<Activity_Group_Id>104</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Subject>Khidmat Bakti</Subject>
+	<Students>Tahun 1</Students>
+	<Students>Tahun 2</Students>
+	<Students>Tahun 3</Students>
+	<Students>Tahun 4</Students>
+	<Duration>1</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>107</Id>
+	<Activity_Group_Id>104</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Teacher>FARAH</Teacher>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Pengucapan Awam</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>112</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Pendidikan Seni &amp; Visual</Subject>
+	<Students>2 Umar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>116</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Pendidikan Seni &amp; Visual</Subject>
+	<Students>3 Othman</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>120</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Pendidikan Jasmani</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>121</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Pendidikan Jasmani</Subject>
+	<Students>2 Umar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>122</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Pendidikan Jasmani</Subject>
+	<Students>3 Othman</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>123</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Pendidikan Kesihatan</Subject>
+	<Students>3 Othman</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>125</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Pendidikan Kesihatan</Subject>
+	<Students>2 Umar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>126</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Pendidikan Kesihatan</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>127</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>140</Id>
+	<Activity_Group_Id>140</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>141</Id>
+	<Activity_Group_Id>140</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>142</Id>
+	<Activity_Group_Id>140</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>143</Id>
+	<Activity_Group_Id>140</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>144</Id>
+	<Activity_Group_Id>144</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>145</Id>
+	<Activity_Group_Id>144</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>146</Id>
+	<Activity_Group_Id>144</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>147</Id>
+	<Activity_Group_Id>144</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>148</Id>
+	<Activity_Group_Id>148</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>149</Id>
+	<Activity_Group_Id>148</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>150</Id>
+	<Activity_Group_Id>148</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>FARAH</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>8</Total_Duration>
+	<Id>151</Id>
+	<Activity_Group_Id>148</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>156</Id>
+	<Activity_Group_Id>156</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>157</Id>
+	<Activity_Group_Id>156</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>158</Id>
+	<Activity_Group_Id>156</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>159</Id>
+	<Activity_Group_Id>159</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>160</Id>
+	<Activity_Group_Id>159</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Matematik</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>161</Id>
+	<Activity_Group_Id>159</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Sains</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>162</Id>
+	<Activity_Group_Id>162</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Sains</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>163</Id>
+	<Activity_Group_Id>162</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Teacher>AFIFAH</Teacher>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Tajwid</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>167</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Teacher>SAMIRA</Teacher>
+	<Teacher>ADI</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>168</Id>
+	<Activity_Group_Id>168</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Teacher>SAMIRA</Teacher>
+	<Teacher>ADI</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>169</Id>
+	<Activity_Group_Id>168</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Teacher>SAMIRA</Teacher>
+	<Teacher>ADI</Teacher>
+	<Subject>Al-Quran</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>170</Id>
+	<Activity_Group_Id>168</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>171</Id>
+	<Activity_Group_Id>171</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>172</Id>
+	<Activity_Group_Id>171</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Bahasa Melayu</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>173</Id>
+	<Activity_Group_Id>171</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADILA</Teacher>
+	<Subject>Sejarah</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>174</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Pendidikan Jasmani</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>175</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Pendidikan Kesihatan</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>176</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Pendidikan Seni &amp; Visual</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>177</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Pendidikan Seni Muzik / Bahasa Inggeris</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>178</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Rekabentuk &amp; Teknologi / Teknologi Maklumat &amp; Komunikasi</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>179</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Akhlak</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>181</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Feqah</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>182</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Subject>Sirah</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>183</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IRA</Teacher>
+	<Subject>Akidah</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>184</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Teacher>IRA</Teacher>
+	<Subject>Mentor Mentee</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>185</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>186</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>187</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>188</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>189</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>190</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ATIKAH</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>191</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Subject>Tunas Kadet Remaja Sekolah</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>193</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SAMIRA</Teacher>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Pengucapan Awam</Subject>
+	<Students>2 Umar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>195</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ADI</Teacher>
+	<Teacher>ADILA</Teacher>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Pengucapan Awam</Subject>
+	<Students>3 Othman</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>197</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>198</Id>
+	<Activity_Group_Id>198</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>199</Id>
+	<Activity_Group_Id>198</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>IMAN</Teacher>
+	<Subject>Bahasa Inggeris</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>200</Id>
+	<Activity_Group_Id>198</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Sains</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>201</Id>
+	<Activity_Group_Id>201</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AMILIA</Teacher>
+	<Subject>Sains</Subject>
+	<Students>3 Othman</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>202</Id>
+	<Activity_Group_Id>201</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>203</Id>
+	<Activity_Group_Id>203</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>204</Id>
+	<Activity_Group_Id>203</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>205</Id>
+	<Activity_Group_Id>203</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>1 Abu Bakar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>206</Id>
+	<Activity_Group_Id>203</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>207</Id>
+	<Activity_Group_Id>207</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>208</Id>
+	<Activity_Group_Id>207</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>2 Umar</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>209</Id>
+	<Activity_Group_Id>207</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AFIFAH</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>2 Umar</Students>
+	<Duration>1</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>210</Id>
+	<Activity_Group_Id>207</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>211</Id>
+	<Activity_Group_Id>211</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>212</Id>
+	<Activity_Group_Id>211</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>3 Othman</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>213</Id>
+	<Activity_Group_Id>211</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>3 Othman</Students>
+	<Duration>1</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>214</Id>
+	<Activity_Group_Id>211</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>215</Id>
+	<Activity_Group_Id>215</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>216</Id>
+	<Activity_Group_Id>215</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>2</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>217</Id>
+	<Activity_Group_Id>215</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>AZLIA</Teacher>
+	<Subject>Bahasa Arab</Subject>
+	<Students>Tahun 4 Ali</Students>
+	<Duration>1</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>218</Id>
+	<Activity_Group_Id>215</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+</Buildings_List>
+
+<Rooms_List>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Perhimpunan</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>6</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintBreakTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Break_Times>13</Number_of_Break_Times>
+	<Break_Time>
+		<Day>Isnin</Day>
+		<Hour>10:30-11:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Isnin</Day>
+		<Hour>1:00-2:15</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Selasa</Day>
+		<Hour>10:30-11:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Selasa</Day>
+		<Hour>1:00-2:15</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Rabu</Day>
+		<Hour>10:30-11:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Rabu</Day>
+		<Hour>1:00-2:15</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Khamis</Day>
+		<Hour>10:30-11:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Khamis</Day>
+		<Hour>1:00-2:15</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Jumaat</Day>
+		<Hour>10:30-11:00</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Jumaat</Day>
+		<Hour>1:00-2:15</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Jumaat</Day>
+		<Hour>2:15-2:45</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Jumaat</Day>
+		<Hour>2:45-3:15</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Jumaat</Day>
+		<Hour>3:15-3:30</Hour>
+	</Break_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBreakTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>83</Activity_Id>
+	<Activity_Id>84</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>97</Activity_Id>
+	<Activity_Id>98</Activity_Id>
+	<Activity_Id>99</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>102</Activity_Id>
+	<Activity_Id>103</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Khidmat Bakti</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>3:15-3:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>3:15-3:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>3:15-3:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>3:15-3:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>3:15-3:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name>1 Abu Bakar</Students_Name>
+	<Subject_Name>Pendidikan Jasmani</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>15</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>122</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>123</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeachersMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxHoursContinuously>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>140</Activity_Id>
+	<Activity_Id>141</Activity_Id>
+	<Activity_Id>142</Activity_Id>
+	<Activity_Id>143</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>148</Activity_Id>
+	<Activity_Id>149</Activity_Id>
+	<Activity_Id>150</Activity_Id>
+	<Activity_Id>151</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>156</Activity_Id>
+	<Activity_Id>157</Activity_Id>
+	<Activity_Id>158</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>159</Activity_Id>
+	<Activity_Id>160</Activity_Id>
+	<Activity_Id>161</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>162</Activity_Id>
+	<Activity_Id>163</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>ADI</Teacher>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>8:30-9:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:00-9:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>IRA</Teacher>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>8:30-9:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:00-9:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>ADILA</Teacher>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>8:30-9:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:00-9:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>AFIFAH</Teacher>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>8:30-9:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:00-9:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>9:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Selasa</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>168</Activity_Id>
+	<Activity_Id>169</Activity_Id>
+	<Activity_Id>170</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>171</Activity_Id>
+	<Activity_Id>172</Activity_Id>
+	<Activity_Id>173</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>186</Activity_Id>
+	<Activity_Id>187</Activity_Id>
+	<Activity_Id>188</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>189</Activity_Id>
+	<Activity_Id>190</Activity_Id>
+	<Activity_Id>191</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Al-Quran</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>198</Activity_Id>
+	<Activity_Id>199</Activity_Id>
+	<Activity_Id>200</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>201</Activity_Id>
+	<Activity_Id>202</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Tajwid</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>5</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Mentor Mentee</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>2</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>12:00-12:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>12:30-1:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Pengucapan Awam</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>2:45-3:15</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>33</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>35</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>58</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>59</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>61</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>70</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>72</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>167</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>168</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>169</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>170</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>7:30-8:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>203</Activity_Id>
+	<Activity_Id>204</Activity_Id>
+	<Activity_Id>205</Activity_Id>
+	<Activity_Id>206</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>207</Activity_Id>
+	<Activity_Id>208</Activity_Id>
+	<Activity_Id>209</Activity_Id>
+	<Activity_Id>210</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>211</Activity_Id>
+	<Activity_Id>212</Activity_Id>
+	<Activity_Id>213</Activity_Id>
+	<Activity_Id>214</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>215</Activity_Id>
+	<Activity_Id>216</Activity_Id>
+	<Activity_Id>217</Activity_Id>
+	<Activity_Id>218</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Pendidikan Jasmani</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>15</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Isnin</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Selasa</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Rabu</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Khamis</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>7:30-8:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:00-8:30</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Jumaat</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>8:30-9:00</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>83</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>84</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>86</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>87</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>88</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>120</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>148</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>149</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>150</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>151</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>156</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>157</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>158</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>162</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>163</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>171</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>172</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>173</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>174</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>175</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>177</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>178</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>179</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>181</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>182</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>183</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>184</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>185</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>198</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>199</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>201</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>202</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>211</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>212</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>213</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>214</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>215</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>216</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>217</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>218</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>186</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>112</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:45-3:15</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>190</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>189</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>53</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>191</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>104</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>3:15-3:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>107</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>3:15-3:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>106</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>3:15-3:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>105</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>3:15-3:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>30</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>32</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>37</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>44</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>45</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>46</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>55</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>64</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>65</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>95</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>96</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>97</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>98</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>102</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>103</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>116</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>121</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>125</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>126</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>9:00-9:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>127</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>11:30-12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>140</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>141</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>142</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>143</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>144</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>145</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>146</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>147</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>159</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>160</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>161</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>176</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>187</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>188</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>193</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>195</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:45-3:15</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>197</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>2:45-3:15</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>203</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>204</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>205</Activity_Id>
+	<Preferred_Day>Selasa</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>206</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>11:00-11:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>207</Activity_Id>
+	<Preferred_Day>Rabu</Preferred_Day>
+	<Preferred_Hour>2:15-2:45</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>208</Activity_Id>
+	<Preferred_Day>Khamis</Preferred_Day>
+	<Preferred_Hour>9:30-10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>209</Activity_Id>
+	<Preferred_Day>Jumaat</Preferred_Day>
+	<Preferred_Hour>8:30-9:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>210</Activity_Id>
+	<Preferred_Day>Isnin</Preferred_Day>
+	<Preferred_Hour>10:00-10:30</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+</Space_Constraints_List>
+
+</fet>

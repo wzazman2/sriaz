@@ -1,0 +1,951 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="1 Abu Bakar Automatic Subgroup">
+   <Day name="Isnin">
+    <Hour name="7:30-8:00">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="ADILA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="7:30-8:00">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Pendidikan Jasmani"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Pendidikan Seni &amp; Visual"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="IRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="IRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="7:30-8:00">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="ADILA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Khamis">
+    <Hour name="7:30-8:00">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ADILA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher> <Teacher name="AFIFAH"></Teacher><Subject name="Pengucapan Awam"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jumaat">
+    <Hour name="7:30-8:00">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="ATIKAH"></Teacher> <Teacher name="FARAH"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="ADI"></Teacher><Subject name="Pendidikan Kesihatan"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="FARAH"></Teacher> <Teacher name="ATIKAH"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="FARAH"></Teacher> <Teacher name="ATIKAH"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+     
+    </Hour>
+    <Hour name="2:45-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:30">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2 Umar Automatic Subgroup">
+   <Day name="Isnin">
+    <Hour name="7:30-8:00">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Pendidikan Seni &amp; Visual"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="IRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="IRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="IRA"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="IRA"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="7:30-8:00">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="7:30-8:00">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Pendidikan Jasmani"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Pendidikan Kesihatan"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="IRA"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="IRA"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Khamis">
+    <Hour name="7:30-8:00">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ATIKAH"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="IRA"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="IRA"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="AMILIA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="SAMIRA"></Teacher> <Teacher name="AZLIA"></Teacher><Subject name="Pengucapan Awam"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jumaat">
+    <Hour name="7:30-8:00">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="IRA"></Teacher> <Teacher name="AZLIA"></Teacher> <Teacher name="IMAN"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="SAMIRA"></Teacher> <Teacher name="AZLIA"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="SAMIRA"></Teacher> <Teacher name="AZLIA"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+     
+    </Hour>
+    <Hour name="2:45-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:30">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3 Othman Automatic Subgroup">
+   <Day name="Isnin">
+    <Hour name="7:30-8:00">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="AMILIA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="AMILIA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="7:30-8:00">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="7:30-8:00">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Pendidikan Seni &amp; Visual"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Khamis">
+    <Hour name="7:30-8:00">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Pendidikan Jasmani"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="FARAH"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="ADI"></Teacher><Subject name="Pendidikan Kesihatan"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="AFIFAH"></Teacher><Subject name="Tulisan Jawi"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="ADILA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ADI"></Teacher> <Teacher name="ADILA"></Teacher> <Teacher name="AMILIA"></Teacher><Subject name="Pengucapan Awam"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jumaat">
+    <Hour name="7:30-8:00">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AMILIA"></Teacher> <Teacher name="ADILA"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="ADI"></Teacher> <Teacher name="ADILA"></Teacher> <Teacher name="AMILIA"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="ADI"></Teacher> <Teacher name="ADILA"></Teacher> <Teacher name="AMILIA"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+     
+    </Hour>
+    <Hour name="2:45-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:30">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="Tahun 4 Ali Automatic Subgroup">
+   <Day name="Isnin">
+    <Hour name="7:30-8:00">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+     <Subject name="Perhimpunan"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Pendidikan Seni &amp; Visual"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="ADILA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Pendidikan Seni Muzik / Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Akhlak"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="7:30-8:00">
+      <Teacher name="ADI"></Teacher> <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher><Subject name="Tajwid"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="ADI"></Teacher> <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher><Subject name="Tajwid"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Pendidikan Jasmani"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="SAMIRA"></Teacher><Subject name="Sirah"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="AMILIA"></Teacher><Subject name="Rekabentuk &amp; Teknologi / Teknologi Maklumat &amp; Komunikasi"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="AMILIA"></Teacher><Subject name="Rekabentuk &amp; Teknologi / Teknologi Maklumat &amp; Komunikasi"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ADILA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ADILA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="7:30-8:00">
+      <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher> <Teacher name="ADI"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher> <Teacher name="ADI"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="IRA"></Teacher><Subject name="Pendidikan Kesihatan"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="ADI"></Teacher><Subject name="Tunas Kadet Remaja Sekolah"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Khamis">
+    <Hour name="7:30-8:00">
+      <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher> <Teacher name="ADI"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher> <Teacher name="ADI"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="ADILA"></Teacher><Subject name="Sejarah"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Sejarah"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="AZLIA"></Teacher><Subject name="Bahasa Arab"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="ADI"></Teacher><Subject name="Matematik"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Sains"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+      <Teacher name="IRA"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="2:45-3:15">
+      <Teacher name="IRA"></Teacher><Subject name="Feqah"></Subject>
+    </Hour>
+    <Hour name="3:15-3:30">
+     <Subject name="Khidmat Bakti"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Jumaat">
+    <Hour name="7:30-8:00">
+      <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher> <Teacher name="ADI"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:00-8:30">
+      <Teacher name="AFIFAH"></Teacher> <Teacher name="SAMIRA"></Teacher> <Teacher name="ADI"></Teacher><Subject name="Al-Quran"></Subject>
+    </Hour>
+    <Hour name="8:30-9:00">
+      <Teacher name="ADILA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:00-9:30">
+      <Teacher name="ADILA"></Teacher><Subject name="Bahasa Melayu"></Subject>
+    </Hour>
+    <Hour name="9:30-10:00">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:00-10:30">
+      <Teacher name="IMAN"></Teacher><Subject name="Bahasa Inggeris"></Subject>
+    </Hour>
+    <Hour name="10:30-11:00">
+     
+    </Hour>
+    <Hour name="11:00-11:30">
+      <Teacher name="IRA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="11:30-12:00">
+      <Teacher name="IRA"></Teacher><Subject name="Akidah"></Subject>
+    </Hour>
+    <Hour name="12:00-12:30">
+      <Teacher name="IMAN"></Teacher> <Teacher name="IRA"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="12:30-1:00">
+      <Teacher name="IMAN"></Teacher> <Teacher name="IRA"></Teacher><Subject name="Mentor Mentee"></Subject>
+    </Hour>
+    <Hour name="1:00-2:15">
+     
+    </Hour>
+    <Hour name="2:15-2:45">
+     
+    </Hour>
+    <Hour name="2:45-3:15">
+     
+    </Hour>
+    <Hour name="3:15-3:30">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

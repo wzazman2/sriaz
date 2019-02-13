@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>6</Id>
+	<Day>Isnin</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>15</Id>
+	<Day>Rabu</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>16</Id>
+	<Day>Jumaat</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>17</Id>
+	<Day>Selasa</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>18</Id>
+	<Day>Isnin</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>19</Id>
+	<Day>Khamis</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>28</Id>
+	<Day>Isnin</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>29</Id>
+	<Day>Khamis</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>30</Id>
+	<Day>Selasa</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>32</Id>
+	<Day>Jumaat</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>33</Id>
+	<Day>Rabu</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>34</Id>
+	<Day>Khamis</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>35</Id>
+	<Day>Jumaat</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>36</Id>
+	<Day>Selasa</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>37</Id>
+	<Day>Selasa</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>38</Id>
+	<Day>Khamis</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>42</Id>
+	<Day>Selasa</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>43</Id>
+	<Day>Khamis</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>44</Id>
+	<Day>Rabu</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>45</Id>
+	<Day>Khamis</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>46</Id>
+	<Day>Isnin</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>53</Id>
+	<Day>Isnin</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>54</Id>
+	<Day>Isnin</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>55</Id>
+	<Day>Rabu</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>58</Id>
+	<Day>Jumaat</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>59</Id>
+	<Day>Khamis</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>60</Id>
+	<Day>Rabu</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>61</Id>
+	<Day>Selasa</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>64</Id>
+	<Day>Selasa</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>65</Id>
+	<Day>Khamis</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>66</Id>
+	<Day>Jumaat</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>70</Id>
+	<Day>Jumaat</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>71</Id>
+	<Day>Rabu</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>72</Id>
+	<Day>Selasa</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>73</Id>
+	<Day>Khamis</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>83</Id>
+	<Day>Rabu</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>84</Id>
+	<Day>Khamis</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>85</Id>
+	<Day>Selasa</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>86</Id>
+	<Day>Jumaat</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>87</Id>
+	<Day>Rabu</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>88</Id>
+	<Day>Khamis</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>95</Id>
+	<Day>Jumaat</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>96</Id>
+	<Day>Jumaat</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>97</Id>
+	<Day>Jumaat</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>98</Id>
+	<Day>Selasa</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>99</Id>
+	<Day>Isnin</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>102</Id>
+	<Day>Rabu</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>103</Id>
+	<Day>Khamis</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>104</Id>
+	<Day>Isnin</Day>
+	<Hour>3:15-3:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>105</Id>
+	<Day>Khamis</Day>
+	<Hour>3:15-3:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>106</Id>
+	<Day>Rabu</Day>
+	<Hour>3:15-3:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>107</Id>
+	<Day>Selasa</Day>
+	<Hour>3:15-3:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>112</Id>
+	<Day>Khamis</Day>
+	<Hour>2:45-3:15</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>116</Id>
+	<Day>Isnin</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>120</Id>
+	<Day>Rabu</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>121</Id>
+	<Day>Selasa</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>122</Id>
+	<Day>Rabu</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>123</Id>
+	<Day>Khamis</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>125</Id>
+	<Day>Khamis</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>126</Id>
+	<Day>Rabu</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>127</Id>
+	<Day>Jumaat</Day>
+	<Hour>11:30-12:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>140</Id>
+	<Day>Jumaat</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>141</Id>
+	<Day>Isnin</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>142</Id>
+	<Day>Rabu</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>143</Id>
+	<Day>Khamis</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>144</Id>
+	<Day>Selasa</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>145</Id>
+	<Day>Rabu</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>146</Id>
+	<Day>Jumaat</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>147</Id>
+	<Day>Selasa</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>148</Id>
+	<Day>Khamis</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>149</Id>
+	<Day>Isnin</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>150</Id>
+	<Day>Rabu</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>151</Id>
+	<Day>Selasa</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>156</Id>
+	<Day>Rabu</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>157</Id>
+	<Day>Jumaat</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>158</Id>
+	<Day>Selasa</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>159</Id>
+	<Day>Rabu</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>160</Id>
+	<Day>Khamis</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>161</Id>
+	<Day>Isnin</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>162</Id>
+	<Day>Rabu</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>163</Id>
+	<Day>Khamis</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>167</Id>
+	<Day>Selasa</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>168</Id>
+	<Day>Jumaat</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>169</Id>
+	<Day>Khamis</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>170</Id>
+	<Day>Rabu</Day>
+	<Hour>7:30-8:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>171</Id>
+	<Day>Isnin</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>172</Id>
+	<Day>Jumaat</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>173</Id>
+	<Day>Selasa</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>174</Id>
+	<Day>Khamis</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>175</Id>
+	<Day>Selasa</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>176</Id>
+	<Day>Rabu</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>177</Id>
+	<Day>Isnin</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>178</Id>
+	<Day>Isnin</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>179</Id>
+	<Day>Selasa</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>181</Id>
+	<Day>Isnin</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>182</Id>
+	<Day>Khamis</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>183</Id>
+	<Day>Selasa</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>184</Id>
+	<Day>Jumaat</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>185</Id>
+	<Day>Jumaat</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>186</Id>
+	<Day>Isnin</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>187</Id>
+	<Day>Selasa</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>188</Id>
+	<Day>Rabu</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>189</Id>
+	<Day>Isnin</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>190</Id>
+	<Day>Khamis</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>191</Id>
+	<Day>Selasa</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>193</Id>
+	<Day>Rabu</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>195</Id>
+	<Day>Khamis</Day>
+	<Hour>2:45-3:15</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>197</Id>
+	<Day>Khamis</Day>
+	<Hour>2:45-3:15</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>198</Id>
+	<Day>Rabu</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>199</Id>
+	<Day>Selasa</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>200</Id>
+	<Day>Isnin</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>201</Id>
+	<Day>Isnin</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>202</Id>
+	<Day>Rabu</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>203</Id>
+	<Day>Isnin</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>204</Id>
+	<Day>Rabu</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>205</Id>
+	<Day>Selasa</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>206</Id>
+	<Day>Jumaat</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>207</Id>
+	<Day>Rabu</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>208</Id>
+	<Day>Khamis</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>209</Id>
+	<Day>Jumaat</Day>
+	<Hour>8:30-9:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>210</Id>
+	<Day>Isnin</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>211</Id>
+	<Day>Selasa</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>212</Id>
+	<Day>Isnin</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>213</Id>
+	<Day>Jumaat</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>214</Id>
+	<Day>Khamis</Day>
+	<Hour>2:15-2:45</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>215</Id>
+	<Day>Khamis</Day>
+	<Hour>9:30-10:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>216</Id>
+	<Day>Rabu</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>217</Id>
+	<Day>Isnin</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>218</Id>
+	<Day>Selasa</Day>
+	<Hour>9:00-9:30</Hour>
+	<Room></Room>
+</Activity>
+</Activities_Timetable>

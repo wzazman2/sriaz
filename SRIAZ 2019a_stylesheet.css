@@ -1,0 +1,361 @@
+﻿@charset "UTF-8";
+
+/* CSS Stylesheet of SRIAZ 2019a.fet
+   Stylesheet generated with FET 5.37.3 on 2/13/19 6:40 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display:none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left:auto; margin-right:auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject Akhlak */
+
+}
+
+span.s_2 { /* subject Akidah */
+
+}
+
+span.s_3 { /* subject Al-Quran */
+
+}
+
+span.s_4 { /* subject Bahasa Arab */
+
+}
+
+span.s_5 { /* subject Bahasa Inggeris */
+
+}
+
+span.s_6 { /* subject Bahasa Melayu */
+
+}
+
+span.s_7 { /* subject Feqah */
+
+}
+
+span.s_8 { /* subject Khidmat Bakti */
+
+}
+
+span.s_9 { /* subject Matematik */
+
+}
+
+span.s_10 { /* subject Mentor Mentee */
+
+}
+
+span.s_11 { /* subject Pendidikan Jasmani */
+
+}
+
+span.s_12 { /* subject Pendidikan Kesihatan */
+
+}
+
+span.s_13 { /* subject Pendidikan Seni & Visual */
+
+}
+
+span.s_14 { /* subject Pendidikan Seni Muzik / Bahasa Inggeris */
+
+}
+
+span.s_15 { /* subject Pengucapan Awam */
+
+}
+
+span.s_16 { /* subject Perhimpunan */
+
+}
+
+span.s_17 { /* subject Rekabentuk & Teknologi / Teknologi Maklumat & Komunikasi */
+
+}
+
+span.s_18 { /* subject Sains */
+
+}
+
+span.s_19 { /* subject Sejarah */
+
+}
+
+span.s_20 { /* subject Sirah */
+
+}
+
+span.s_21 { /* subject Tajwid */
+
+}
+
+span.s_22 { /* subject Tulisan Jawi */
+
+}
+
+span.s_23 { /* subject Tunas Kadet Remaja Sekolah */
+
+}
+
+span.ss_1 { /* students set Tahun 1 */
+
+}
+
+span.ss_2 { /* students set 1 Abu Bakar */
+
+}
+
+span.ss_4 { /* students set Tahun 2 */
+
+}
+
+span.ss_5 { /* students set 2 Umar */
+
+}
+
+span.ss_7 { /* students set Tahun 3 */
+
+}
+
+span.ss_8 { /* students set 3 Othman */
+
+}
+
+span.ss_10 { /* students set Tahun 4 */
+
+}
+
+span.ss_11 { /* students set Tahun 4 Ali */
+
+}
+
+span.t_1 { /* teacher ADI */
+
+}
+
+span.t_2 { /* teacher ADILA */
+
+}
+
+span.t_3 { /* teacher AFIFAH */
+
+}
+
+span.t_4 { /* teacher AMILIA */
+
+}
+
+span.t_5 { /* teacher ATIKAH */
+
+}
+
+span.t_6 { /* teacher AZLIA */
+
+}
+
+span.t_7 { /* teacher FARAH */
+
+}
+
+span.t_8 { /* teacher IMAN */
+
+}
+
+span.t_9 { /* teacher IRA */
+
+}
+
+span.t_10 { /* teacher SAMIRA */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color:silver;
+  border-right-style:none;
+  border-bottom-style:none;
+  border-left-style:dotted;
+  border-top-style:dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */
